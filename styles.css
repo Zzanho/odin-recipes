@@ -1,0 +1,13 @@
+*{
+    background-color: antiquewhite;
+}
+.title{
+    text-align: center;
+}
+
+.chefPic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
